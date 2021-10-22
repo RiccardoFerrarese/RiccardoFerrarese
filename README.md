@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RiccardoFerrarese
-- 👀 I’m interested in Intelligent systems, DataScience and some general concepts of Computer Science (DB, OS, GPU)
+- 👀 I’m interested in Intelligent Systems, DataScience and some general concepts of Computer Science (DB, OS)
 - 🌱 I’m currently learning some approaches  to Data Science with R, Neural Network and DLs introduction with Python, and 
 some basis about Automated Reasoning 
 
